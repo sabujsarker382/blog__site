@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+Note:before starting the project you have when you try to bulid the project never setup tailwind beacuse it was the old version..after creating the project go to the tailwindcss doc to setup the tailwind then start again and it will work properly.....
+
 ## Getting Started
 
 First, run the development server:
